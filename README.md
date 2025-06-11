@@ -2,4 +2,4 @@
 - 👀 I’m interested in Backend development and Cyber Security
 - 🌱 I’m currently learning Node and Python
 - 💞️ I’m looking to collaborate on Python integrations
-- 📫 How to reach me - samridhsuresh321
+- 📫 How to reach me - samridhsuresh321@gmail.com
